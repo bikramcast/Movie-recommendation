@@ -222,7 +222,7 @@ There are 3 models used in MOVICO:
   
 * More ***effective recommendation systems*** can be built using MOVICO.
 
-* The project `MOVICO` or `Movie Recommendation System` could also be used as an `AI-ML Project`, for courses like `Machine Intelligence Project`, or specifically as a project for the courses `UE20CS302` or ue20cs302.
+* The project `MOVICO` or `Movie Recommendation System` could also be used as an `AI-ML Project`, for courses like `Machine Intelligence Project`.
   
 </br>
 <p align="right"><a href="#readme-top">Back to TOP</a></p>
